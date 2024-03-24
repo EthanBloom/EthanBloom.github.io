@@ -568,7 +568,7 @@ section {
     }
 
     .right-contact {
-        flex: 3;
+        flex: 1;
         margin-left: 3rem;
         .input-control {
             margin: 1.5rem 0;
@@ -595,12 +595,13 @@ section {
         .submit-btn {
             display: flex;
             justify-content: flex-start;
+            margin-bottom: 1rem;
         }
     }
 }
 
 
-/*Independed components*/
+/*Independent components*/
 .btn-con {
     display: flex;
     align-self: flex-start;
